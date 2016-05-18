@@ -1,0 +1,45 @@
+div .inline{
+	float: right;
+}
+.rojo{
+	background-color: red;
+	border: 2px solid white;
+	height: 50px;
+	margin: 10px;
+	width: 50px;
+}
+.verde{
+	background-color: green;
+	border: 2px solid white;
+	margin: 10px;
+	height: 50px;
+	width: 50px;
+}
+.amarillo{
+	background-color: yellow;
+	border: 2px solid white;
+	margin: 10px;
+	height: 50px;
+	width: 50px;
+}
+.azul{
+	background-color: blue;
+	border: 2px solid white;
+	margin: 10px;
+	height: 50px;
+	width: 50px;
+}
+form{
+	display: none;
+}
+.correcto{
+	background-color: green;
+}
+.fallo{
+	background-color: red;
+}
+.error{
+	color: red;
+	background-color: red;
+	
+}
